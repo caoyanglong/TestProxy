@@ -6,4 +6,7 @@ package com.cyl.testproxy;
  * email:670654904@qq.com
  */
 public class Test {
+    public void test(){
+
+    }
 }
